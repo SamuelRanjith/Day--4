@@ -1,0 +1,60 @@
+{
+    "basics": {
+      "name": "Samuel Ranjith",
+      "label": "developer",
+      "image": "",
+      "email": "samuelranjith11@gmail.com",
+      "phone": "+91 9876543322",
+      "url": "https://samuelranjith11.com",
+      "summary": "Honesty is the best policy…",
+      "location": {
+        "address": "Ramasamy nagar 7th St",
+        "postalCode": "600019",
+        "city": "Chennai",
+        "countryCode": "India",
+        "region": "Asia"
+      },
+      "profiles": [{
+        "network": "Twitter",
+        "username": "SamuelRanjith",
+        "url": "https://twitter.com/samuelranjith"
+      }]
+    },
+    "work": [{
+      "name": "Microsoft",
+      "position": "Software Developer",
+      "url": "https://microsoft.com",
+      "startDate": "2022-02-28",
+      "endDate": "As Present",
+      "summary": "Hard Work…",
+      "highlights": [
+        "Started the company"
+      ]
+    }],
+    "education": [{
+      "institution": "JNN",
+      "url": "https://JNN institution.com/",
+      "area": "Software Development",
+      "studyType": "Bachelor",
+      "startDate": "2011-01-01",
+      "endDate": "2013-01-01",
+      "score": "4.0",
+      "courses": [
+        "Full Stack Developer"
+      ]
+    }],
+    "skills": [{
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ]
+    }],
+    "languages": [{
+      "language": "Tamil",
+      "languages": "English",
+      "fluency": "Native speaker"
+    }]
+  }
